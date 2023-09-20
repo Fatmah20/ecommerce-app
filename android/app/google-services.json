@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1051290621672",
+    "project_id": "emart-firebase-app",
+    "storage_bucket": "emart-firebase-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1051290621672:android:67d61b1badc42d456a5b5d",
+        "android_client_info": {
+          "package_name": "com.example.emart_firebase_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtAleiOBN0mjkzeEems1RyTH7Vi4pay5U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
